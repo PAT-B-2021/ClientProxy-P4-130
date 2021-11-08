@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientProxy-P4-20190140130", "ClientProxy-P4-20190140130\ClientProxy-P4-20190140130.csproj", "{07572B77-EFDA-4D84-AF91-1698D86906B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07572B77-EFDA-4D84-AF91-1698D86906B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07572B77-EFDA-4D84-AF91-1698D86906B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07572B77-EFDA-4D84-AF91-1698D86906B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07572B77-EFDA-4D84-AF91-1698D86906B9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A5C0F935-0B5A-4E3E-A150-E07DA7E9CEB1}
+	EndGlobalSection
+EndGlobal
